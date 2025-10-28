@@ -1,1 +1,9 @@
-！
+h1{
+ color: rgb(111, 111, 228);   
+}
+ul {
+    color: rgb(125, 83, 208);
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
